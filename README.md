@@ -1,2 +1,2 @@
 # CryoManta
-Simulador de missão automatizada na lua Europa.
+Automated mission simulator on Europa.
